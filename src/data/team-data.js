@@ -1,6 +1,6 @@
 export const teamData = [
   {
-    img: "/img/team-1.jpg",
+    img: "/seansite-tailwind/img/team-1.jpg",
     name: "Ryan Tompson",
     position: "Performance Leadership",
     socials: [
