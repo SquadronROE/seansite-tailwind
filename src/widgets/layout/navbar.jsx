@@ -121,14 +121,14 @@ export function Navbar({ brandName, routes, action }) {
 }
 
 Navbar.defaultProps = {
-  brandName: "Material Tailwind React",
+  brandName: "Sean Long Example Site",
   action: (
     <a
-      href="https://www.creative-tim.com/product/material-tailwind-kit-react"
+      href="https://swoosh.nike"
       target="_blank"
     >
       <Button variant="gradient" size="sm" fullWidth>
-        free download
+        dotSwoosh site
       </Button>
     </a>
   ),

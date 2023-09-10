@@ -79,46 +79,31 @@ export function Footer({ title, description, socials, menus, copyright }) {
 }
 
 Footer.defaultProps = {
-  title: "Material Tailwind",
+  title: "Sean Long",
   description:
-    "Easy to use React components for Tailwind CSS and Material Design.",
+    "Software Quality Professional",
   socials: [
     {
       color: "blue",
       name: "facebook",
-      path: "https://www.facebook.com/CreativeTim",
-    },
-    {
-      color: "light-blue",
-      name: "twitter",
-      path: "https://www.twitter.com/creativetim",
-    },
-    {
-      color: "purple",
-      name: "instagram",
-      path: "https://www.instagram.com/creativetimofficial/",
+      path: "https://www.facebook.com/imuncreative",
     },
     {
       color: "pink",
-      name: "dribbble",
-      path: "https://www.dribbble.com/creativetim",
-    },
-    {
-      color: "red",
-      name: "youtube",
-      path: "https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w",
+      name: "linkedin",
+      path: "https://www.linkedin.com/in/sean-long-3059bb19/",
     },
     {
       color: "black",
-      name: "github",
-      path: "https://github.com/creativetimofficial/material-tailwind",
+      name: "dotSwoosh",
+      path: "https://www.swoosh.nike/profile/squadronroe",
     },
   ],
   menus: [
     {
       name: "useful links",
       items: [
-        { name: "About Us", path: "https://www.creative-tim.com/presentation" },
+        { name: "Twitch", path: "https://www.creative-tim.com/presentation" },
         { name: "Blog", path: "https://www.creative-tim.com/blog" },
         {
           name: "Github",

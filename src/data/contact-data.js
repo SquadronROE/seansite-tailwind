@@ -6,22 +6,22 @@ import {
 
 export const contactData = [
   {
-    title: "Excelent Services",
+    title: "Ability to deliver",
     icon: StarIcon,
     description:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Test automation teams need to speed up development through efficient testing, not slow down delivery. Using frameworks and efficient ",
   },
   {
-    title: "Grow Your Market",
+    title: "Empower developers",
     icon: PresentationChartLineIcon,
     description:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Don't work in isolation, show off and share the work being done to ensure you're a force multiplier.",
   },
   {
-    title: "Launch Time",
+    title: "MVP and iterate on tests",
     icon: RocketLaunchIcon,
     description:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Write tests fast, but revist tests often as they get used. Constantly improve your code and build it for the future.",
   },
 ];
 
