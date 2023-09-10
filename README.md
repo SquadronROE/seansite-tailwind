@@ -4,17 +4,15 @@
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/486/original/material-tailwind-kit-react.jpg)
 
-Material Tailwind Kit React is our newest free Material Tailwind UI Kit based on Tailwind CSS and React. If you’re a developer looking to create an ui kit that is developer-friendly, rich with features, and highly customisable, here is your match. Our innovative Material Tailwind, Tailwind CSS & React ui kit comes with a beautiful design inspired by Google's Material Design and it will help you create stunning websites & web apps to delight your clients.
+This site has been built off of a free template linked above. The purpose of this was to allow for fast development off of a sufficiently complex code base, setting up a play space for automated testing tools to be explored and utilized.
 
-**Fully Coded Elements**
+**The Problem**
 
-Material Tailwind Kit React is built with over 40 frontend individual elements coming from @material-tailwind/react, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using props and tailwind css classnames. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
+Many times personal sites showcase a user's ability to provide a sufficiently complex site and backend to demonstrate their skills and proficiency. While this works great for Front End, Back End and Full Stack developers, it's harder for people whose skills are focused on supporting disciplines (such as SRE, Quality, or Security). While in many cases these supporting disciplines are handled by individual developers, these disciplines can benefit from dedicated focus as well.
 
-This free Material Tailwind, Tailwind CSS & React UI Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+This site exists as a way for me to explore automated testing tools and methodologies without incurring the overhead of having to develop both front- and back-end systems to a sufficient degree of complexity to lead to the sorts of testing situations that require innovation.
 
-View [all components here](https://www.material-tailwind.com/docs/react/button).
-
-**Documentation built by Developers**
+**Documentation for site**
 
 Each element is well presented in very complex documentation.
 
@@ -31,15 +29,6 @@ View [example pages here](https://demos.creative-tim.com/material-tailwind-kit-r
 - View [Github Repository](https://github.com/creativetimofficial/material-tailwind-kit-react)
 - Check [FAQ Page](https://www.creative-tim.com/faq)
 
-#### Special thanks
-
-During the development of this ui kit, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
-
-- [Material Tailwind](https://material-tailwind.com/) - Material Tailwind is an easy to use components library for Tailwind CSS and Material Design.
-- [Hero Icons](https://heroicons.com/) - Beautiful hand-crafted SVG icons.
-- [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Material Tailwind Kit React. You can use it to gain insights into your sources of traffic.
-
-Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
@@ -55,16 +44,8 @@ Let us know your thoughts below. And good luck with development!
 - [Licensing](#licensing)
 - [Useful Links](#useful-links)
 
-## Versions
 
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/material-tailwind-kit-react?ref=readme-mtkr)
-
-| React |
-| ----- |
-
-| [![Material Tailwind Kit React](https://s3.amazonaws.com/creativetim_bucket/products/486/thumb/material-tailwind-kit-react.jpg)](http://demos.creative-tim.com/material-tailwind-kit-react/#/?ref=readme-mtkr)
-
-## Demo
+## Demo of template site
 
 - [Home page](https://demos.creative-tim.com/material-tailwind-kit-react/#/home?ref=readme-mtkr)
 - [Profile page](https://demos.creative-tim.com/material-tailwind-kit-react/#/profile?ref=readme-mtkr)
@@ -73,13 +54,13 @@ Let us know your thoughts below. And good luck with development!
 
 [View More](https://demos.creative-tim.com/material-tailwind-kit-react/#/?ref=readme-mtkr).
 
-## Quick start
+## Quick start for reference
 
 Quick start options:
 
 - Downdload from [Creative Tim](https://www.creative-tim.com/product/material-tailwind-kit-react?ref=readme-mtkr).
 
-## Terminal Commands
+## Terminal Commands for reference
 
 1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
 2. Navigate to the root ./ directory of the product and run `npm install` or `yarn install` or `pnpm install` to install our local dependencies.
@@ -160,15 +141,3 @@ If you have questions or need help integrating the product please [contact us](h
 - [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-mtkr) from Creative Tim
 
 - [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-mtkr) (earn money)
-
-##### Social Media
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
